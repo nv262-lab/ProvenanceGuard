@@ -1,0 +1,47 @@
+cpb:
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  embedding_dim: 384
+  simhash_bits: 256
+  hamming_threshold: 0.15
+  batch_size: 64
+
+mig:
+  mi_threshold: 0.6
+  mine_hidden_dims: [256, 128, 64]
+  mine_learning_rate: 0.0001
+  consensus_method: "pairwise_cosine"
+
+ard:
+  pool_multiplier: 3
+  noise_scale: 2.0
+  lambda_diversity: 0.3
+
+rag:
+  retrieval_k: 5
+  max_output_tokens: 512
+  temperature: 0.0
+
+evaluation:
+  bertscore_model: "microsoft/deberta-xlarge-mnli"
+  bertscore_threshold: 0.85
+  num_runs: 3
+  seeds: [42, 123, 456]
+
+attacks:
+  strategies: ["tfp", "scp", "rm", "mcp"]
+  scenarios_per_strategy: 3000
+  adversary_budget_m: 5
+
+domains:
+  - name: "medical"
+    corpus_path: "data/medical/corpus.jsonl"
+    queries_path: "data/medical/queries.jsonl"
+    size: 50000
+  - name: "legal"
+    corpus_path: "data/legal/corpus.jsonl"
+    queries_path: "data/legal/queries.jsonl"
+    size: 30000
+  - name: "financial"
+    corpus_path: "data/financial/corpus.jsonl"
+    queries_path: "data/financial/queries.jsonl"
+    size: 40000

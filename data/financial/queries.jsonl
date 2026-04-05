@@ -1,0 +1,20 @@
+{"id": "q_financial_00000", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00001", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00002", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00003", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00004", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00005", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00006", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00007", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00008", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00009", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00010", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00011", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00012", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00013", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00014", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00015", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00016", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00017", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
+{"id": "q_financial_00018", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
+{"id": "q_financial_00019", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}

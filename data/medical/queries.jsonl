@@ -1,0 +1,20 @@
+{"id": "q_medical_00000", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
+{"id": "q_medical_00001", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
+{"id": "q_medical_00002", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
+{"id": "q_medical_00003", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
+{"id": "q_medical_00004", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
+{"id": "q_medical_00005", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
+{"id": "q_medical_00006", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
+{"id": "q_medical_00007", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
+{"id": "q_medical_00008", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
+{"id": "q_medical_00009", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
+{"id": "q_medical_00010", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
+{"id": "q_medical_00011", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
+{"id": "q_medical_00012", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
+{"id": "q_medical_00013", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
+{"id": "q_medical_00014", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
+{"id": "q_medical_00015", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
+{"id": "q_medical_00016", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
+{"id": "q_medical_00017", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
+{"id": "q_medical_00018", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
+{"id": "q_medical_00019", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
