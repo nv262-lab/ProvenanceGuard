@@ -1,20 +1,20 @@
-{"id": "q_legal_00000", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00001", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00002", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00003", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00004", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00005", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00006", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00007", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00008", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00009", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00010", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00011", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00012", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00013", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00014", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00015", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00016", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
-{"id": "q_legal_00017", "query": "What is the hearsay exception?", "ground_truth": "Present sense impression", "domain": "legal"}
-{"id": "q_legal_00018", "query": "What is the contract breach remedy?", "ground_truth": "Expectation damages", "domain": "legal"}
-{"id": "q_legal_00019", "query": "What is the negligence standard?", "ground_truth": "Reasonable person standard", "domain": "legal"}
+{"id": "q_legal_00000", "query": "What are the current guidelines regarding remedy standard in contract breach?", "ground_truth": "expectation damages to place non-breaching party in expected position", "domain": "legal", "topic": "contract breach", "difficulty": "hard"}
+{"id": "q_legal_00001", "query": "Describe the recommended elements for negligence in torts.", "ground_truth": "duty, breach, causation, and damages must all be proven", "domain": "legal", "topic": "negligence", "difficulty": "medium"}
+{"id": "q_legal_00002", "query": "What are the current guidelines regarding definition in hearsay?", "ground_truth": "out-of-court statement offered to prove the truth of the matter asserted", "domain": "legal", "topic": "hearsay", "difficulty": "hard"}
+{"id": "q_legal_00003", "query": "Describe the recommended requirements for Miranda rights in criminal procedure.", "ground_truth": "must be given before custodial interrogation begins", "domain": "legal", "topic": "Miranda rights", "difficulty": "medium"}
+{"id": "q_legal_00004", "query": "Describe the recommended product defect types for strict liability in torts.", "ground_truth": "manufacturing defects, design defects, and failure to warn", "domain": "legal", "topic": "strict liability", "difficulty": "easy"}
+{"id": "q_legal_00005", "query": "What is the requirement for consideration?", "ground_truth": "bargained-for exchange of legal value between parties", "domain": "legal", "topic": "consideration", "difficulty": "medium"}
+{"id": "q_legal_00006", "query": "What does current evidence say about standard for probable cause?", "ground_truth": "reasonable belief that a crime has been committed", "domain": "legal", "topic": "probable cause", "difficulty": "medium"}
+{"id": "q_legal_00007", "query": "What are the current guidelines regarding effect in res judicata?", "ground_truth": "prevents relitigation of claims already adjudicated on the merits", "domain": "legal", "topic": "res judicata", "difficulty": "easy"}
+{"id": "q_legal_00008", "query": "Describe the recommended components for fiduciary duty in corporate law.", "ground_truth": "duty of care, duty of loyalty, duty of good faith", "domain": "legal", "topic": "fiduciary duty", "difficulty": "easy"}
+{"id": "q_legal_00009", "query": "Describe the recommended purpose for statute of limitations in civil procedure.", "ground_truth": "bars claims not filed within prescribed time period", "domain": "legal", "topic": "statute of limitations", "difficulty": "easy"}
+{"id": "q_legal_00010", "query": "Describe the recommended civil standard for burden of proof in evidence.", "ground_truth": "preponderance of the evidence in most civil cases", "domain": "legal", "topic": "burden of proof", "difficulty": "easy"}
+{"id": "q_legal_00011", "query": "What does current evidence say about test for proximate cause?", "ground_truth": "foreseeable consequences of defendant's conduct", "domain": "legal", "topic": "proximate cause", "difficulty": "medium"}
+{"id": "q_legal_00012", "query": "What is the types for due process?", "ground_truth": "procedural and substantive due process under 14th Amendment", "domain": "legal", "topic": "due process", "difficulty": "hard"}
+{"id": "q_legal_00013", "query": "What does current evidence say about application for parol evidence rule?", "ground_truth": "bars extrinsic evidence contradicting integrated written agreement", "domain": "legal", "topic": "parol evidence rule", "difficulty": "easy"}
+{"id": "q_legal_00014", "query": "What is the standard for summary judgment?", "ground_truth": "no genuine dispute of material fact and movant entitled to judgment as matter of law", "domain": "legal", "topic": "summary judgment", "difficulty": "easy"}
+{"id": "q_legal_00015", "query": "What are the current guidelines regarding remedy standard in contract breach?", "ground_truth": "expectation damages to place non-breaching party in expected position", "domain": "legal", "topic": "contract breach", "difficulty": "easy"}
+{"id": "q_legal_00016", "query": "What are the current guidelines regarding elements in negligence?", "ground_truth": "duty, breach, causation, and damages must all be proven", "domain": "legal", "topic": "negligence", "difficulty": "medium"}
+{"id": "q_legal_00017", "query": "What does current evidence say about definition for hearsay?", "ground_truth": "out-of-court statement offered to prove the truth of the matter asserted", "domain": "legal", "topic": "hearsay", "difficulty": "easy"}
+{"id": "q_legal_00018", "query": "What does current evidence say about requirements for Miranda rights?", "ground_truth": "must be given before custodial interrogation begins", "domain": "legal", "topic": "Miranda rights", "difficulty": "easy"}
+{"id": "q_legal_00019", "query": "What is the product defect types for strict liability?", "ground_truth": "manufacturing defects, design defects, and failure to warn", "domain": "legal", "topic": "strict liability", "difficulty": "hard"}

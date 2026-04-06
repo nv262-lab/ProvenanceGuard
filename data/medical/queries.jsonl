@@ -1,20 +1,20 @@
-{"id": "q_medical_00000", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
-{"id": "q_medical_00001", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
-{"id": "q_medical_00002", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
-{"id": "q_medical_00003", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
-{"id": "q_medical_00004", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
-{"id": "q_medical_00005", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
-{"id": "q_medical_00006", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
-{"id": "q_medical_00007", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
-{"id": "q_medical_00008", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
-{"id": "q_medical_00009", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
-{"id": "q_medical_00010", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
-{"id": "q_medical_00011", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
-{"id": "q_medical_00012", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
-{"id": "q_medical_00013", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
-{"id": "q_medical_00014", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
-{"id": "q_medical_00015", "query": "What is the metformin dosage?", "ground_truth": "500mg daily initially", "domain": "medical"}
-{"id": "q_medical_00016", "query": "What is the warfarin INR target?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical"}
-{"id": "q_medical_00017", "query": "What is the STEMI treatment?", "ground_truth": "Primary PCI within 90 minutes", "domain": "medical"}
-{"id": "q_medical_00018", "query": "What is the pneumonia antibiotics?", "ground_truth": "Amoxicillin or doxycycline", "domain": "medical"}
-{"id": "q_medical_00019", "query": "What is the diabetes screening?", "ground_truth": "FPG or A1C for adults 35+", "domain": "medical"}
+{"id": "q_medical_00000", "query": "Describe the recommended initial dosage for metformin in endocrinology.", "ground_truth": "500mg once daily, titrated up to 2000mg", "domain": "medical", "topic": "metformin", "difficulty": "easy"}
+{"id": "q_medical_00001", "query": "What is the INR target range for warfarin?", "ground_truth": "2.0-3.0 for most indications", "domain": "medical", "topic": "warfarin", "difficulty": "easy"}
+{"id": "q_medical_00002", "query": "What does current evidence say about treatment protocol for STEMI?", "ground_truth": "primary PCI within 90 minutes of first medical contact", "domain": "medical", "topic": "STEMI", "difficulty": "easy"}
+{"id": "q_medical_00003", "query": "What are the current guidelines regarding first-line antibiotic in community-acquired pneumonia?", "ground_truth": "amoxicillin or doxycycline for outpatients", "domain": "medical", "topic": "community-acquired pneumonia", "difficulty": "easy"}
+{"id": "q_medical_00004", "query": "What does current evidence say about screening criteria for type 2 diabetes?", "ground_truth": "fasting plasma glucose or HbA1c for adults aged 35+", "domain": "medical", "topic": "type 2 diabetes", "difficulty": "hard"}
+{"id": "q_medical_00005", "query": "Describe the recommended first-line treatment for hypertension in cardiology.", "ground_truth": "ACE inhibitors or ARBs for most patients", "domain": "medical", "topic": "hypertension", "difficulty": "easy"}
+{"id": "q_medical_00006", "query": "What does current evidence say about anticoagulation duration for DVT?", "ground_truth": "3-6 months for provoked, indefinite for unprovoked", "domain": "medical", "topic": "DVT", "difficulty": "easy"}
+{"id": "q_medical_00007", "query": "What does current evidence say about controller therapy for asthma?", "ground_truth": "inhaled corticosteroids as first-line controller", "domain": "medical", "topic": "asthma", "difficulty": "hard"}
+{"id": "q_medical_00008", "query": "Describe the recommended levothyroxine dosing for hypothyroidism in endocrinology.", "ground_truth": "1.6 mcg/kg/day, adjusted based on TSH", "domain": "medical", "topic": "hypothyroidism", "difficulty": "medium"}
+{"id": "q_medical_00009", "query": "Describe the recommended stroke prevention for atrial fibrillation in cardiology.", "ground_truth": "DOACs preferred over warfarin for non-valvular AF", "domain": "medical", "topic": "atrial fibrillation", "difficulty": "medium"}
+{"id": "q_medical_00010", "query": "What are the current guidelines regarding GOLD classification in COPD?", "ground_truth": "based on spirometry FEV1/FVC ratio below 0.70", "domain": "medical", "topic": "COPD", "difficulty": "medium"}
+{"id": "q_medical_00011", "query": "What are the current guidelines regarding GDMT components in heart failure?", "ground_truth": "ACEi/ARB/ARNI, beta-blocker, MRA, SGLT2i", "domain": "medical", "topic": "heart failure", "difficulty": "medium"}
+{"id": "q_medical_00012", "query": "What is the H. pylori treatment for peptic ulcer?", "ground_truth": "triple therapy: PPI + clarithromycin + amoxicillin for 14 days", "domain": "medical", "topic": "peptic ulcer", "difficulty": "hard"}
+{"id": "q_medical_00013", "query": "What are the current guidelines regarding screening recommendation in osteoporosis?", "ground_truth": "DXA scan for women 65+ and men 70+", "domain": "medical", "topic": "osteoporosis", "difficulty": "hard"}
+{"id": "q_medical_00014", "query": "Describe the recommended KDIGO staging for acute kidney injury in nephrology.", "ground_truth": "stage 1: creatinine 1.5-1.9x baseline", "domain": "medical", "topic": "acute kidney injury", "difficulty": "medium"}
+{"id": "q_medical_00015", "query": "What is the initial management for sepsis?", "ground_truth": "IV fluids 30mL/kg within 3 hours, blood cultures before antibiotics", "domain": "medical", "topic": "sepsis", "difficulty": "medium"}
+{"id": "q_medical_00016", "query": "What is the tPA window for stroke?", "ground_truth": "IV alteplase within 4.5 hours of symptom onset", "domain": "medical", "topic": "stroke", "difficulty": "hard"}
+{"id": "q_medical_00017", "query": "What does current evidence say about troponin interpretation for MI?", "ground_truth": "high-sensitivity troponin above 99th percentile URL", "domain": "medical", "topic": "MI", "difficulty": "easy"}
+{"id": "q_medical_00018", "query": "What is the HbA1c target for diabetes?", "ground_truth": "less than 7% for most adults, individualized", "domain": "medical", "topic": "diabetes", "difficulty": "easy"}
+{"id": "q_medical_00019", "query": "What does current evidence say about first-line treatment for anaphylaxis?", "ground_truth": "intramuscular epinephrine 0.3-0.5mg in anterolateral thigh", "domain": "medical", "topic": "anaphylaxis", "difficulty": "hard"}

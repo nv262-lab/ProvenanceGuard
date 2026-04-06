@@ -1,20 +1,20 @@
-{"id": "q_financial_00000", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00001", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00002", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00003", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00004", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00005", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00006", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00007", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00008", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00009", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00010", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00011", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00012", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00013", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00014", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00015", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00016", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
-{"id": "q_financial_00017", "query": "What is the Sharpe ratio benchmark?", "ground_truth": "Above 1.0 is generally good", "domain": "financial"}
-{"id": "q_financial_00018", "query": "What is the PE ratio interpretation?", "ground_truth": "Higher PE suggests growth expectations", "domain": "financial"}
-{"id": "q_financial_00019", "query": "What is the bond yield relationship?", "ground_truth": "Inverse relationship with price", "domain": "financial"}
+{"id": "q_financial_00000", "query": "What does current evidence say about interpretation for PE ratio?", "ground_truth": "higher PE suggests market expects higher future growth", "domain": "financial", "topic": "PE ratio", "difficulty": "hard"}
+{"id": "q_financial_00001", "query": "What are the current guidelines regarding price relationship in bond yield?", "ground_truth": "inverse relationship between bond price and yield", "domain": "financial", "topic": "bond yield", "difficulty": "medium"}
+{"id": "q_financial_00002", "query": "What is the benchmark for Sharpe ratio?", "ground_truth": "above 1.0 generally considered good risk-adjusted return", "domain": "financial", "topic": "Sharpe ratio", "difficulty": "medium"}
+{"id": "q_financial_00003", "query": "What does current evidence say about components for DCF?", "ground_truth": "projected free cash flows discounted at weighted average cost of capital", "domain": "financial", "topic": "DCF", "difficulty": "medium"}
+{"id": "q_financial_00004", "query": "Describe the recommended capital requirements for Basel III in banking regulation.", "ground_truth": "minimum CET1 ratio of 4.5% plus capital conservation buffer of 2.5%", "domain": "financial", "topic": "Basel III", "difficulty": "medium"}
+{"id": "q_financial_00005", "query": "What is the Black-Scholes inputs for options pricing?", "ground_truth": "stock price, strike price, time, volatility, risk-free rate", "domain": "financial", "topic": "options pricing", "difficulty": "medium"}
+{"id": "q_financial_00006", "query": "Describe the recommended formula for CAPM in asset pricing.", "ground_truth": "expected return equals risk-free rate plus beta times market premium", "domain": "financial", "topic": "CAPM", "difficulty": "hard"}
+{"id": "q_financial_00007", "query": "What does current evidence say about definition for VaR?", "ground_truth": "maximum expected loss over given time period at given confidence level", "domain": "financial", "topic": "VaR", "difficulty": "medium"}
+{"id": "q_financial_00008", "query": "Describe the recommended calculation for EBITDA margin in financial analysis.", "ground_truth": "EBITDA divided by total revenue, expressed as percentage", "domain": "financial", "topic": "EBITDA margin", "difficulty": "easy"}
+{"id": "q_financial_00009", "query": "What does current evidence say about inversion signal for yield curve?", "ground_truth": "inverted yield curve historically precedes recessions", "domain": "financial", "topic": "yield curve", "difficulty": "easy"}
+{"id": "q_financial_00010", "query": "What are the current guidelines regarding benefit in diversification?", "ground_truth": "reduces unsystematic risk through uncorrelated asset allocation", "domain": "financial", "topic": "diversification", "difficulty": "medium"}
+{"id": "q_financial_00011", "query": "What are the current guidelines regarding interpretation in leverage ratio?", "ground_truth": "higher leverage increases both potential returns and risk of default", "domain": "financial", "topic": "leverage ratio", "difficulty": "hard"}
+{"id": "q_financial_00012", "query": "What does current evidence say about benchmark for current ratio?", "ground_truth": "above 1.5 generally indicates adequate short-term liquidity", "domain": "financial", "topic": "current ratio", "difficulty": "easy"}
+{"id": "q_financial_00013", "query": "What does current evidence say about DuPont analysis for ROE decomposition?", "ground_truth": "profit margin times asset turnover times equity multiplier", "domain": "financial", "topic": "ROE decomposition", "difficulty": "easy"}
+{"id": "q_financial_00014", "query": "What does current evidence say about EMH forms for market efficiency?", "ground_truth": "weak, semi-strong, and strong form efficiency", "domain": "financial", "topic": "market efficiency", "difficulty": "hard"}
+{"id": "q_financial_00015", "query": "What is the interpretation for PE ratio?", "ground_truth": "higher PE suggests market expects higher future growth", "domain": "financial", "topic": "PE ratio", "difficulty": "medium"}
+{"id": "q_financial_00016", "query": "What are the current guidelines regarding price relationship in bond yield?", "ground_truth": "inverse relationship between bond price and yield", "domain": "financial", "topic": "bond yield", "difficulty": "medium"}
+{"id": "q_financial_00017", "query": "What is the benchmark for Sharpe ratio?", "ground_truth": "above 1.0 generally considered good risk-adjusted return", "domain": "financial", "topic": "Sharpe ratio", "difficulty": "medium"}
+{"id": "q_financial_00018", "query": "Describe the recommended components for DCF in valuation.", "ground_truth": "projected free cash flows discounted at weighted average cost of capital", "domain": "financial", "topic": "DCF", "difficulty": "hard"}
+{"id": "q_financial_00019", "query": "What does current evidence say about capital requirements for Basel III?", "ground_truth": "minimum CET1 ratio of 4.5% plus capital conservation buffer of 2.5%", "domain": "financial", "topic": "Basel III", "difficulty": "easy"}
